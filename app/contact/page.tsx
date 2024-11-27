@@ -1,6 +1,6 @@
 export default function Contact() {
   return (
-    <ul className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full text-center uppercase text-[12vw]">
+    <ul className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full text-center uppercase text-[5vw]">
       <li>
         <a href="mailto:artcreatorartem@gmail.com">artcreatorartem@gmail.com</a>
       </li>
